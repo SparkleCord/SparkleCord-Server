@@ -1,2 +1,2 @@
 ## IMPORTANT ⚠  
-### SparkleCord Server is currently not released and there is no plans to officially release it *yet*.  
+### The SparkleCord server isn’t released yet, with no official release plans for <u>now</u>.
